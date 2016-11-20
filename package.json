@@ -1,0 +1,13 @@
+{
+  "name": "artstudio",
+  "version": "1.0.0",
+  "description": "web virtual reality art exhibit",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yoni Binstock",
+  "license": "ISC"
+}
