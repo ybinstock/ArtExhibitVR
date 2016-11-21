@@ -13,3 +13,21 @@
 body {
   padding-top: 60px;
 }
+
+h1 {
+  text-align: center;
+}
+
+form {
+  margin-left: 40%;
+}
+
+input {
+  position: relative;
+  margin-top: 20px;
+  display: block;
+}
+
+/*.form {*/
+/*text-align: center;*/
+/*}*/
